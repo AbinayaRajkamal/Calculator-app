@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 A react based calculator
 =======
 Calculator App
@@ -42,4 +41,3 @@ Development
 
 Running Tests - 
 While tests are planned for future updates, the current version does not include automated tests. The project is being continuously improved, and tests will be added progressively.
->>>>>>> 9ad3a21 (Initial commit)
