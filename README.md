@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# calculator
 A react based calculator
 =======
 Calculator App
@@ -14,15 +13,11 @@ Features
 * Light and dark theme support.
 * Keyboard shortcuts for operations.
 
-Live Demo
-
-You can try out the live demo here (replace with the actual link).
-
 Installation
 
 To get started with this project locally, follow these steps:
 1. Clone the repository:
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/AbinayaRajkamal/calculator-app.git
 2. Navigate into the project directory:
 cd calculator-app
 3. Install the dependencies:
@@ -45,6 +40,6 @@ Keyboard Shortcuts
 
 Development
 
-Running Tests
+Running Tests - 
 While tests are planned for future updates, the current version does not include automated tests. The project is being continuously improved, and tests will be added progressively.
 >>>>>>> 9ad3a21 (Initial commit)
